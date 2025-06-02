@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
