@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0135-candy) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
