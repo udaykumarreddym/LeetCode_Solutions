@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
