@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
