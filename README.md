@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0135-candy) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Divide and Conquer
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2383-add-two-integers) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
