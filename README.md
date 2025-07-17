@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2383-add-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
