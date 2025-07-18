@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Simulation
 |  |
