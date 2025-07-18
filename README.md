@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
 |  |
