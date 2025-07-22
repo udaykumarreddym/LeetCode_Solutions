@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
