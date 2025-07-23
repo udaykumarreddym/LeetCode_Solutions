@@ -1,22 +1,11 @@
 class Solution {
     public int hammingDistance(int x, int y) {
-        int ans = 0;
-        if(x > y){
-            int temp = x;
-            x = y;
-            y = temp;
+        x = x^y;
+        int cnt = 0;
+        while(x != 0){
+            cnt += (x & 1);
+            x = x>>1;
         }
-        if(y > x){
-            while(y > 0){
-                int xrem = x % 2;
-                int yrem = y % 2;
-                if(xrem != yrem){
-                    ans++;
-                }
-                y /= 2;
-                x /= 2;
-            }
-        }
-        return ans;
+        return cnt;
     }
 }
