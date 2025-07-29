@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3396-valid-word](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Monotonic Stack
