@@ -1,16 +1,14 @@
 class Solution {
     public boolean checkTwoChessboards(String coordinate1, String coordinate2) {
-        String color1 = color(coordinate1);
-        String color2 = color(coordinate2);
-        return color1 == color2;
-    }
-    public String color(String s){
-        int al = (int)s.charAt(0)-'a'+1;
-        int di = (int)s.charAt(1)-'1'+1;
-        if((al + di) % 2 == 0){
-            return "black";
-        }else{
-            return "white";
+        int a1 = (int)coordinate1.charAt(0) - 'a'+1;
+        int a2 = (int)coordinate1.charAt(1) - '1'+1;
+        int b1 = (int)coordinate2.charAt(0) - 'a'+1;
+        int b2 = (int)coordinate2.charAt(1) - '1'+1;
+        if((a1 + a2 + b1 + b2) % 2 == 0){
+            return true;
+        }
+        else{
+            return false;
         }
     }
 }
