@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0202-happy-number) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
