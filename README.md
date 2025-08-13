@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
