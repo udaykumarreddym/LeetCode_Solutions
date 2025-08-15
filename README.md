@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
