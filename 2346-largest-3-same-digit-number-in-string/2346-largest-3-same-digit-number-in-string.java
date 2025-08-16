@@ -1,10 +1,8 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        for(int i=9;i>=0;i--){
-            String triple = String.valueOf(i).repeat(3);
-            if(num.contains(triple)){
-                return triple;
-            }
+        String[] arr = {"999","888","777","666","555","444","333","222","111","000"};
+        for(String s:arr){
+            if(num.contains(s)) return s;
         }
         return "";
     }
