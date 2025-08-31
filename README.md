@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0498-diagonal-traverse](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
