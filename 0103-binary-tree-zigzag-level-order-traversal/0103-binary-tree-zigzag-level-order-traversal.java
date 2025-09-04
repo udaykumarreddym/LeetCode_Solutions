@@ -24,15 +24,12 @@ class Solution {
             int len = q.size();
             List<Integer> level = new ArrayList<>();
             for(int i=0;i<len;i++){
-                level.add(0);
-            }
-            for(int i=0;i<len;i++){
                 TreeNode node = q.poll();
-                int idx = ltr ? i : (len - i - 1);
-                level.set(idx,node.val);
+                level.add(node.val);
                 if(node.left != null) q.offer(node.left);
                 if(node.right != null) q.offer(node.right);
             }
+            if(!ltr) Collections.reverse(level);
             ltr = !ltr;
             ans.add(level);
         }
