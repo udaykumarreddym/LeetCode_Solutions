@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
