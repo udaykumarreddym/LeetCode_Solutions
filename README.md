@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3797-design-spreadsheet](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3396-valid-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0498-diagonal-traverse](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
