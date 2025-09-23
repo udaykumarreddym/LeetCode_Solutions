@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
