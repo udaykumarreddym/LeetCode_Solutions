@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0135-candy) |
 | [0890-lemonade-change](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1448-maximum-69-number) |
