@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2383-add-two-integers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2619-categorize-box-according-to-criteria](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2748-calculate-delayed-arrival-time) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
