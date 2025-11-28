@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2619-categorize-box-according-to-criteria](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2619-categorize-box-according-to-criteria) |
 | [2651-calculate-delayed-arrival-time](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2652-sum-multiples) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
