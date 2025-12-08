@@ -3,11 +3,10 @@ class Solution {
         int ans = 0;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=n;j++){
-                for(int k=1;k<=n;k++){
-                    int sum = (i*i) + (j*j);
-                    if(sum == (k*k)){
-                        ans++;
-                    }
+                int sum = (i*i) + (j*j);
+                int c = (int) Math.sqrt(sum);
+                if(c <= n && c * c == sum){
+                    ans++;
                 }
             }
         }
