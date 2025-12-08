@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2235-add-two-integers) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-number-of-common-factors) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
