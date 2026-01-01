@@ -10,9 +10,6 @@ class Solution {
         }
         int[] res = new int[n+1];
         res[0] = 1;
-        for(int i=1;i<=n;i++){
-            res[i] = digits[i-1];
-        }
         return res;
     }
 }
