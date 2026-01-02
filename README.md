@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
