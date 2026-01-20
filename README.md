@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
