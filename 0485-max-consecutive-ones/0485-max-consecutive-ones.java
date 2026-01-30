@@ -4,10 +4,10 @@ class Solution {
         for(int num : nums){
             if(num == 1){
                 cnt++;
+                max = Math.max(cnt,max);
             }else{
                 cnt = 0;
             }
-            max = Math.max(cnt,max);
         }
         return max;
     }
