@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
