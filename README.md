@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
