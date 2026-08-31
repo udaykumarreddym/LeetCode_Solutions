@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3024-type-of-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3024-type-of-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2652-sum-multiples) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/2748-calculate-delayed-arrival-time) |
+| [3024-type-of-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
