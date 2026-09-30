@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0498-diagonal-traverse](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3797-design-spreadsheet](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/udaykumarreddym/My_LeetCode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
